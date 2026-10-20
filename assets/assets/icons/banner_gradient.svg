@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="380" height="98" viewBox="0 0 380 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Editable original gradient overlays" clip-path="url(#clip0_0_122)">
+<path id="Vector" d="M380 0H0V98H380V0Z" fill="url(#paint0_linear_0_122)"/>
+<path id="Vector_2" d="M380 0H0V98H380V0Z" fill="url(#paint1_linear_0_122)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_122" x1="0" y1="98" x2="0" y2="39.2" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.16"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_122" x1="0" y1="0" x2="380" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#020D23" stop-opacity="0.94"/>
+<stop offset="0.38" stop-color="#031432" stop-opacity="0.84"/>
+<stop offset="0.68" stop-color="#041837" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#041837" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_0_122">
+<rect width="380" height="98" fill="white"/>
+</clipPath>
+</defs>
+</svg>
